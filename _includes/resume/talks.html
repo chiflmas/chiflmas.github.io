@@ -1,4 +1,4 @@
-{% if site.data.cv.contributions.projects.size >= 0 %}
+{% if site.data.cv.latest_invited_talks.size >= 0 %}
 {% assign today = site.time | date: "%Y-%m-%d" %}
 {% assign upcoming_talks = site.data.cv.latest_invited_talks | where_exp: 'talk', 'talk.date > today' | sort: 'date' %}
 {% assign invited_talks = site.data.cv.latest_invited_talks | where_exp: 'talk', 'talk.date <= today'  | sort: 'date' | reverse %}
