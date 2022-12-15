@@ -51,69 +51,49 @@ Experience:
 
 
 
-#Honors_&_Awards:
-#  - term: 2018
-#    title: Fellowship to pursue postgraduate studies at North American universities
-#    company: la Caixa Banking Foundation
-#    featured: true
+Honors_&_Awards:
+  - term: 2018
+    title: Fellowship to pursue postgraduate studies at North American universities
+    company: la Caixa Banking Foundation
+    featured: true
 
 
-#contributions:
-#  projects:
-#    - title: "OBS"
-#      commits-url: "openSUSE/open-build-service"
-#
-#
-#  general:
-#    - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
-#    - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
-#    - openSUSE Board member 2018-2019
+contributions:
+  projects:
+    - title: "OBS"
+      commits-url: "openSUSE/open-build-service"
 
 
-# my_projects:
-#   - title: "Personal page"
-#     project-url: "Ana06/ana06.github.io"
-
-#   - title: "Solutions to programing challenges"
-#     project-url: "Ana06/programing-challenges"
-
-#   - title: "Android app to collect medical data"
-#     project-url: "Ana06/medical-data-android"
-
-#   - title: "Solution of ODE with MATLAB"
-#     project-url: "Ana06/ode"
-
-#   - title: "A C-like language compiler to Pascal in Java"
-#     project-url: "Ana06/C-like-compiler"
-
-#   - title: "Interactive prototype of a messaging mobile app"
-#     url: "https://www.youtube.com/watch?v=iCR0IikbKpw"
-
-#   - title: "Text decoder written in Haskell"
-#     project-url: "Ana06/text-decoder"
-
-#   - title: "Function graphing with VHDL over a FPGA"
-#     project-url: "Ana06/function-graphing-FPGA"
+  general:
+    - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
+    - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
+    - openSUSE Board member 2018-2019
 
 
-#latest_invited_talks:
-#  - title: The Biggest Mobprogramming Session Ever
-#    conference: RubyConfBY 2019 (Minsk, Belarus)
-#    url: https://youtu.be/lFWi_JzVFpw
-#    short-url: http://ana06.me/1s9
-#    date: "2019-04-06"
-#    attendees: 250
-#    featured: true
+ my_projects:
+   - title: "Personal page"
+     project-url: "Ana06/ana06.github.io"
 
 
 
-#other_talks:
-#  - title: Property testing
-#    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
-#    url: https://youtu.be/FSrNXI1SyCg
-#    date: "2018-05-05"
-#    featured: true
-#    attendees: 200
+latest_invited_talks:
+  - title: The Biggest Mobprogramming Session Ever
+    conference: RubyConfBY 2019 (Minsk, Belarus)
+    url: https://youtu.be/lFWi_JzVFpw
+    short-url: http://ana06.me/1s9
+    date: "2019-04-06"
+    attendees: 250
+    featured: true
+
+
+
+other_talks:
+  - title: Property testing
+    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
+    url: https://youtu.be/FSrNXI1SyCg
+    date: "2018-05-05"
+    featured: true
+    attendees: 200
 
 
 Certificates:
