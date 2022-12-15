@@ -49,7 +49,6 @@ Experience:
     featured: true
 
 
-
 Honors_&_Awards:
   - term: 2018
     title: Fellowship to pursue postgraduate studies at North American universities
@@ -62,18 +61,15 @@ contributions:
     - title: "OBS"
       commits-url: "openSUSE/open-build-service"
 
-
   general:
     - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
     - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
     - openSUSE Board member 2018-2019
 
 
- my_projects:
-   - title: "Personal page"
-     project-url: "Ana06/ana06.github.io"
-
-
+#my_projects:
+#  - title: "Personal page"
+#    project-url: "Ana06/ana06.github.io"#
 
 latest_invited_talks:
   - title: The Biggest Mobprogramming Session Ever
@@ -83,7 +79,6 @@ latest_invited_talks:
     date: "2019-04-06"
     attendees: 250
     featured: true
-
 
 
 other_talks:
@@ -118,4 +113,3 @@ personal:
     hiking: https://www.komoot.com/user/824085591748/tours?type=recorded
     cook: https://recetariodeana.wordpress.com
     cooking: https://recetariodeana.wordpress.com
-
