@@ -1,14 +1,14 @@
 Education:
-  - term: Aug 2019 - Dec 2020
-    title: "Master of Science in Computer Science, Theory track"
-    company: Columbia University
-    location: New York, USA
+  - term: Jan 2020 -
+    title: "Bachelor's Degree in Applied Data Science"
+    company: Open University of Catalonia
+    location: Spain
     details:
       - "Courses: Advanced Algorithms, Computational Complexity, Advanced Cryptography, Malware & Reverse Engineering"
     score: "GPA: 3.67/4"
     featured: true
 
-  - term: Sep 2011 - Jul 2016
+  - term: Sep 2015 - Jul 2018
     title: "Bachelor's Degree in Computer Science and Engineering"
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
@@ -278,14 +278,10 @@ languages:
   - name: Spanish
     level: Native speaker
   - name: English
-    level: C2
+    level: B2
     certificates:
       - TOEFL iBT with score of 104 out of 120 by ETS in November 2018
       - Certificate of Proficiency in English (CPE) by Cambridge University in June 2016
-  - name: German
-    level: C1
-    certificates:
-      - Goethe-Zertifikat C1 in July 2019
 
 
 personal:
