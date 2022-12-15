@@ -31,6 +31,11 @@
               <i class="fab fa-twitter fa-lg"></i>
             </a>
           </li>
+          <li class="list-inline-item">
+            <a class="btn btn-outline-light btn-social text-center rounded-circle" title="Kaggle" href="{{ site.data.contact.kaggle_url }}" target="_blank">
+              <i class="fab fa-kaggle fa-lg"></i>
+            </a>
+          </li>
         </ul>
       </div>
     </div>
