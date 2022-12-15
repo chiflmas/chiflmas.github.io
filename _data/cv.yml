@@ -19,23 +19,6 @@ Education:
       #icon: "fas fa-arrow-circle-down"
       #url: "/documents/AnaMariaMartinez-CS-set.pdf"
 
-  - term: Sep 2011 - Jul 2016
-    title: "Bachelor's Degree in Mathematics"
-    company: Universidad Complutense de Madrid
-    location: Madrid, Spain
-    score: "GPA: 8.11/10"
-    featured: true
-    media:
-      name: Transcripts
-      icon: "fas fa-arrow-circle-down"
-      url: "/documents/AnaMariaMartinez-M-set.pdf"
-
-  - term: Sep 2009 - Jun 2011
-    title: "Technological Baccalaureate"
-    score: Graduated with Honors
-    company: IES Lázaro Cárdenas
-    location: Madrid, Spain
-
 
 Experience:
   - term: Sep 2016 - Jul 2019
@@ -49,50 +32,50 @@ Experience:
     featured: true
 
 
-Honors_&_Awards:
-  - term: 2018
-    title: Fellowship to pursue postgraduate studies at North American universities
-    company: la Caixa Banking Foundation
-    featured: true
+#Honors_&_Awards:
+#  - term: 2018
+#    title: Fellowship to pursue postgraduate studies at North American universities
+#    company: la Caixa Banking Foundation
+#    featured: true
 
 
-contributions:
-  projects:
-    - title: "OBS"
-      commits-url: "openSUSE/open-build-service"
-
-  general:
-    - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
-    - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
-    - openSUSE Board member 2018-2019
+#contributions:
+#  projects:
+#    - title: "OBS"
+#      commits-url: "openSUSE/open-build-service"
+#
+#  general:
+#    - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
+#    - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
+#    - openSUSE Board member 2018-2019
 
 
 #my_projects:
 #  - title: "Personal page"
 #    project-url: "Ana06/ana06.github.io"#
 
-latest_invited_talks:
-  - title: The Biggest Mobprogramming Session Ever
-    conference: RubyConfBY 2019 (Minsk, Belarus)
-    url: https://youtu.be/lFWi_JzVFpw
-    short-url: http://ana06.me/1s9
-    date: "2019-04-06"
-    attendees: 250
-    featured: true
+#latest_invited_talks:
+#  - title: The Biggest Mobprogramming Session Ever
+#    conference: RubyConfBY 2019 (Minsk, Belarus)
+#    url: https://youtu.be/lFWi_JzVFpw
+#    short-url: http://ana06.me/1s9
+#    date: "2019-04-06"
+#    attendees: 250
+#    featured: true
 
 
-other_talks:
-  - title: Property testing
-    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
-    url: https://youtu.be/FSrNXI1SyCg
-    date: "2018-05-05"
-    featured: true
-    attendees: 200
+#other_talks:
+#  - title: Property testing
+#    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
+#    url: https://youtu.be/FSrNXI1SyCg
+#    date: "2018-05-05"
+#    featured: true
+#    attendees: 200
 
 
 Certificates:
-  - term: Jan 2019 - Dec 2019
-    title: Army helicopter pilot
+  - term: Jan 2018 - Dec 2018
+    title: Army Helicopter Pilot
     company: Spanish Army
     featured: true
 
