@@ -15,7 +15,7 @@ redirect_from: /resume/
 
 {% include resume/talks.html %}
 
-{% include resume/experience.html type='Certificates' %}
+{% include resume/experience.html type='Certificates and Courses' %}
 
 {% include resume/languages.html %}
 
