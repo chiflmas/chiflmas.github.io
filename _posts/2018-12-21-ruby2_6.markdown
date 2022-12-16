@@ -4,7 +4,7 @@ title: Ruby 2.6
 tags:
   - technical
   - Ruby
-reads: "8500+"
+#reads: "8500+"
 description: "Christmas is around the corner, but I couldn't wait and I have already been trying the new Ruby release! :christmas_tree: :tada:
 Ruby 2.6, apart from efficiency improvements, which include the initial implementation of a just-in-time compiler, brings us many new cool features.
 Taking advance of the cold outside, let's discover some of them! :snowflake:"

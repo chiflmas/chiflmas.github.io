@@ -26,7 +26,7 @@ Experience:
     company: Spanish army
     location: Spain
     details:
-      - "Maneuver helicopter pilot"
+      - "Transport helicopter pilot"
     featured: true
 
   - term: 2011 - 2015
@@ -96,7 +96,7 @@ languages:
 
 
 personal:
-  text: "I am interested in programming challenges, theoretical CS and security. In my free time, I contribute to Open Source, write in my blog (http://ana06.me/1zk), attend conferences and paint (http://ana06.me/1zm)."
+  text: "I am interested in programming challenges and data science. When I find time and an interesting topic, I code and write in my blog."
   #activities:
   #  hike: https://www.komoot.com/user/824085591748/tours?type=recorded
   #  hiking: https://www.komoot.com/user/824085591748/tours?type=recorded

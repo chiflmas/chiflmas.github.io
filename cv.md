@@ -20,7 +20,7 @@ redirect_from: /resume/
 {% include resume/languages.html %}
 
 <div class="mt-5 mb-1 ml-2">
-    <a href="/resume-AnaMariaMartinez.pdf">
+    <a href="/resume_martin_berdini.pdf">
       <i class="fas fa-file-pdf"></i>
       Dowload resume in pdf
     </a>
