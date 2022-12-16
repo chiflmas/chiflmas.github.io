@@ -13,15 +13,15 @@ layout: default
     <div class="mb-2">
 
       <p>
-        I am a versatile Data Scientist who believes in continuous improvement processes. I can create and manage Data Science pojects from problem statement to deployment.
+        I am a versatile Data Scientist who believes in continuous improvement processes. I create and manage Data Science pojects from problem statement to deployment.
       </p>
 
       <p>
-        I am passionate about Data Science and technology and I try to bring value to data by mixing a broad variety of disciplines in the process of solving real-world problems. I strongly rely on mathematics and statistics methods to find patterns and solutoins to deliver the best product in the shortest time.
+        I am passionate about Data Science and technology, and I try to bring value to data by mixing a broad variety of disciplines in the process of solving real-world problems. I strongly rely on mathematics and statistics methods to find patterns and solutions to deliver the best product in the shortest time.
       </p>
 
       <p>
-        I feel attracted to automatize repetitive dayly tasks. I enjoy working with different programming languages and technologies such as Python, R, SQL and Tableau.
+        I feel attracted to automatize repetitive daily tasks. I enjoy working with different programming languages and technologies such as Python, R, SQL, and Tableau.
       </p>
 
       <p>
