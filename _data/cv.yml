@@ -3,9 +3,9 @@ Education:
     title: "Bachelor's Degree in Applied Data Science"
     company: Open University of Catalonia
     location: Spain
-    details:
-      - "Courses: Advanced Algorithms, Computational Complexity, Advanced Cryptography, Malware & Reverse Engineering"
-    score: "GPA: 3.67/4"
+    #details:
+    #  - "Coding, mathematics and statistics"
+    #score: "GPA: 3.67/4"
     featured: true
 
   - term: Jan 2016 - Dec 2017
@@ -21,61 +21,67 @@ Education:
 
 
 Experience:
-  - term: Sep 2016 - Jul 2019
-    title: Full-Stack Software Engineer in Open Build Service (OBS)
-    company: SUSE
-    location: Nuremberg, Germany
+  - term: Since 2015
+    title: Helicopter Pilot
+    company: Spanish army
+    location: Spain
     details:
-      - "Worked on a Ruby on Rails web application to build and distribute Linux packages: designed and implemented features, wrote tests (e.g. unit, property and mutant testing), fixed bugs, refactored code and improved performance."
-      - "Used Ruby, MySQL, PostgreSQL, RSpec, JavaScript, jQuery, HTML, Bootstrap, DataTables, Git, Linux, Docker, Travis"
-      - "Carried out code reviews, technical interviews, hold talks and mentored colleagues and students in a remote SCRUM team."
+      - "Maneuver helicopter pilot"
+    featured: true
+
+  - term: 2011 - 2015
+    title: Personnel manager
+    company: Spanish Army
+    location: Spain
+    details:
+      - "In charge of shift scheduling and personnel statistics mostly through MS Excel Sheets"
     featured: true
 
 
 #Honors_&_Awards:
-#  - term: 2018
-#    title: Fellowship to pursue postgraduate studies at North American universities
-#    company: la Caixa Banking Foundation
+#  - term:
+#    title:
+#    company:
 #    featured: true
 
 
 #contributions:
 #  projects:
-#    - title: "OBS"
-#      commits-url: "openSUSE/open-build-service"
+#    - title:
+#      commits-url:
 #
 #  general:
-#    - top 4% of active users in Stack Overflow in 2018 and top 6% in 2019
-#    - Mentor/Org admin in Google Summer of Code for openSUSE/FOSDEM 2017-2019
-#    - openSUSE Board member 2018-2019
+#    -
+#    -
+#    -
 
 #my_projects:
 #  - title: "Personal page"
-#    project-url: "Ana06/ana06.github.io"#
+#    project-url: "Ana06/ana06.github.io"
 
 
 #latest_invited_talks:
-#  - title: The Biggest Mobprogramming Session Ever
-#    conference: RubyConfBY 2019 (Minsk, Belarus)
-#    url: https://youtu.be/lFWi_JzVFpw
-#    short-url: http://ana06.me/1s9
-#    date: "2019-04-06"
-#    attendees: 250
+#  - title:
+#    conference:
+#    url:
+#    short-url:
+#    date:
+#    attendees:
 #    featured: true
 
 
 #other_talks:
-#  - title: Property testing
-#    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
-#    url: https://youtu.be/FSrNXI1SyCg
-#    date: "2018-05-05"
-#    featured: true
-#    attendees: 200
+#  - title:
+#    conference:
+#    url:
+#    date:
+#    featured:
+#    attendees:
 
 
-Certificates:
+Courses and Certificates:
   - term: Jan 2018 - Dec 2018
-    title: Army Helicopter Pilot
+    title: Army Helicopter Pilot Course
     company: Spanish Army
     featured: true
 
@@ -84,15 +90,15 @@ languages:
   - name: Spanish
     level: Native speaker
   - name: English
-    level: B2
+    level: MCERL B2
     certificates:
       - MCERL B2 certificate in Sep 2020
 
 
 personal:
   text: "I am interested in programming challenges, theoretical CS and security. In my free time, I contribute to Open Source, write in my blog (http://ana06.me/1zk), attend conferences and paint (http://ana06.me/1zm)."
-  activities:
-    hike: https://www.komoot.com/user/824085591748/tours?type=recorded
-    hiking: https://www.komoot.com/user/824085591748/tours?type=recorded
-    cook: https://recetariodeana.wordpress.com
-    cooking: https://recetariodeana.wordpress.com
+  #activities:
+  #  hike: https://www.komoot.com/user/824085591748/tours?type=recorded
+  #  hiking: https://www.komoot.com/user/824085591748/tours?type=recorded
+  #  cook: https://recetariodeana.wordpress.com
+  #  cooking: https://recetariodeana.wordpress.com
