@@ -8,6 +8,7 @@ url: "http://berdinidss.es"
 
 # Build settings
 markdown: kramdown
+google_analytics: G-L3NT9B370C
 timezone: Europe/Berlin
 
 plugins:
@@ -17,7 +18,4 @@ plugins:
 
 # Exclude from processing.
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - cv_latex
   - qr
