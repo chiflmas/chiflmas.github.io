@@ -24,7 +24,7 @@ layout: default
         I take care of the entire process of data mining, data cleaning, modeling and production deployment. Web scrapping, data base querying, statistical analysis, time series analysis, machine learning modeling, data visualization and automating tasks are part of my skillset.
       </p>
       <p>
-        When I find time and an interesting topic, I code and write in <a href="/blog">my blog</a>.
+        When I find time and an interesting topic, I <a href="https://github.com/chiflmas">code</a> and write in <a href="/blog">my blog</a>.
       </p>
       <h6 class="mt-4"><a href="/cv">~ See my CV ~</a></h6>
     </div>
