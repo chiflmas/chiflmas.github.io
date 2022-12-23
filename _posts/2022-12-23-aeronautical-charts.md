@@ -228,6 +228,6 @@ python main.py
 
 Fly safe!
 
-# About me
+### About me
 
 My name is Martin, and I am a Helicopter Pilot and a Data Scientist.
