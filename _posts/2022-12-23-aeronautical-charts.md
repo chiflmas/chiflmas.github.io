@@ -10,7 +10,7 @@ tags:
 
 description: "As a helicopter pilot you MUST have all aeronautical charts up to date and ready to fly. It turns out that
 it consumes an enormous amount of time, so I decided to automate the process and create my own private repository"  
-more-info: "Repository link on [Github](https://github.com/chiflmas/flying_charts)."
+more-info: "Repository link on [Github](https://github.com/chiflmas/aero_charts)."
 ---
 First of all I'm going to show you what an aeronautical chart looks like:
 
@@ -18,8 +18,8 @@ First of all I'm going to show you what an aeronautical chart looks like:
   ![Aeronautical chart](/img/posts/aero_chart.jpg){:class="image-2"}
 </span>
 
-I have approximately 60 airports to keep track of and each airport has between 10 and 15 distinct charts. Moreover, 
-charts gets modified very often almost on a monthly basis.
+I have approximately 60 airports to keep track of and each airport has between 10 and 15 different charts. Moreover, 
+charts get modified very often almost on a monthly basis.
 
 ```python
 airports = ['LECH', 'LERI', 'LEPP', 'LEMH', 'LELL', 'LEIB',
@@ -59,7 +59,7 @@ Furthermore, it had to show a progress bar for each download and a report at the
 
 ### Script
 
-The script has three main parts: first one is creating the tree folder structure to store all the pdf files, the second
+The script has three main parts: the first one is creating the tree folder structure to store all the pdf files, the second
 part is to create a list with all the aeronautical charts URLs and the last one is to download them all.
 
 #### Creating tree-structure directory
