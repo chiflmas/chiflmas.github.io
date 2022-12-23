@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSoC 2018 Mentor Summit"
+title: "Aeronautical charts private repo"
 date: "2022-12-23"
 tags: 
   - Python
@@ -8,14 +8,14 @@ tags:
   - Data Science
   - Aviation
 
-description: "As a helicopter pilot you always MUST have all aeronautical charts up to date and ready to fly. It turns out that
+description: "As a helicopter pilot you MUST have all aeronautical charts up to date and ready to fly. It turns out that
 it consumes an enormous amount of time, so I decided to automate the process and create my own private repository"  
 more-info: "Repository link on [Github](https://github.com/chiflmas/flying_charts)."
 ---
 First of all I'm going to show you what an aeronautical chart looks like:
 
 <span class="image-center">
-  ![Flying chart](/img/posts/aero_chart.jpg){:class="image-2"}
+  ![Aeronautical chart](/img/posts/aero_chart.jpg){:class="image-2"}
 </span>
 
 I have approximately 60 airports to keep track of and each airport has between 10 and 15 distinct charts. Moreover, 
@@ -92,6 +92,10 @@ def create_airport_folders(airports, access_rights, soup):
             print("\nSuccessfully created the directory %s" % (path + "/" + airport))
 ```
 
+<span class="image-center">
+  ![Folder structure](/img/posts/folders.jpg){:class="image-2"}
+</span>
+
 #### Creating pdf url list
 
 Second part of the script creates a list with all the pdf URLs to download using two functions. 
@@ -107,8 +111,11 @@ def parse_pdf(soup):
     pdf = []
     for a in soup.find_all('a', href=True):
         pdf.append(a['href'])
-    pdf = list(filter(lambda i: ("AD2" or "AD3") in i,
+    pdf_ad2 = list(filter(lambda i: ("AD2") in i,
                       filter(lambda i: "pdf" in i, pdf)))
+    pdf_ad3 = list(filter(lambda i: ("AD3") in i,
+                      filter(lambda i: "pdf" in i, pdf)))
+    pdf = pdf_ad2 + pdf_ad3
     return pdf
 ```
 
@@ -131,7 +138,7 @@ def create_url(url, pdf):
                     aip.parse_pdf(soup)))
 ```
 
-#### Multithreadong download
+#### Multithreading download
 
 This is where the magic starts. Once we have the folder structure and the url list the scrip starts downloading all
 the pdf files with multithreading, and it shows a progress bar for each file.
@@ -216,7 +223,7 @@ python main.py
 </span>
 
 ```bash
-1151 flying charts downloaded in 385.0 seconds with 0 exceptions.
+1199 flying charts downloaded in 447.0 seconds with 0 exceptions.
 ```
 
 Fly safe!
