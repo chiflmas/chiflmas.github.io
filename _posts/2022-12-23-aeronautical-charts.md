@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aeronautical charts private repo"
+title: "Automated aeronautical charts private repo"
 date: "2022-12-23"
 tags: 
   - Python
