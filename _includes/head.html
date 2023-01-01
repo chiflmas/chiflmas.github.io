@@ -23,6 +23,8 @@
 
   <!-- Add Favicon -->
   <link rel="shortcut icon" href="/img/favicon.ico">
-  
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
   {% feed_meta %}
 </head>
