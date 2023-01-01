@@ -22,9 +22,7 @@ layout: default
       <h6 class="card-subtitle mb-2">
         <span class="blog-date">{{ post.date | date_to_long_string }}</span>
         {% for tag in post.tags %}
-
         <a href="/blog/tag/{{ tag | replace: ' ', '_' }}" class="badge badge-primary post-tag">{{ tag }}</a>
-
         {% endfor %}
         {% if post.reads %}
         <span class="badge post-tag badge-info">{{post.reads}} reads</span>
@@ -40,5 +38,4 @@ layout: default
   </div>
 {% endif %}
 {% endfor %}
-
 {% include license.html %}
