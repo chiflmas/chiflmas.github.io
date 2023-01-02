@@ -195,7 +195,7 @@ python main.py
   ![Progress bar](/img/posts/irq/barra_final.jpg){:class="image-2"}
 </span>
 
-We parsed 391832 files in 31 minutes and 200 iterations per second and the .csv file looks like this:
+We parsed 391832 files in 31 minutes with 200 iterations per second and the .csv file looks like this:
 
 <span class="image-center">
   ![csv gif](/img/posts/gif/csv_gif.gif){:class="image-2"}
