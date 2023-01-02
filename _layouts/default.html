@@ -15,6 +15,9 @@
     {% include footer.md %}
     {% include js.html %}
 
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 
     {% feed_meta %}
   </body>
