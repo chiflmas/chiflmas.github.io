@@ -21,6 +21,15 @@ Education:
 
 
 Experience:
+  - term: Since April 2023
+    title: Data Scientist Intern
+    company: La Rioja Biomedical Research Center
+    location: Spain
+    details:
+      - "Studying viable options to generate synthetic health records using neural networks.
+      Particularly generative models like variational autoencoders (VAEs) and generative adversarial networks (GANs)."
+    featured: true
+
   - term: Since 2015
     title: Helicopter Pilot
     company: Spanish army
