@@ -9,7 +9,7 @@ tags:
   - Aviation
 
 description: "As a helicopter pilot you MUST have all aeronautical charts up to date and ready to fly. It turns out that
-it consumes an enormous amount of time, so I decided to automate the process and create my own private repository"  
+it consumes an enormous amount of time, so I decided to automate the process and create my own private repository."  
 more-info: "Repository link on [Github](https://github.com/chiflmas/aero_charts)."
 ---
 First of all I'm going to show you what an aeronautical chart looks like:

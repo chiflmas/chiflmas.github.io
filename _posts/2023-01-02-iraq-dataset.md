@@ -21,7 +21,7 @@ Significative Action (SIGACT) files. Each file details an event occurred between
 Every [SIGACT file](https://wikileaks.org/irq/event/2007/05/IRQ20070510n1.html) contains information about the event such as number of KIA (killed in action), WIA (wounded in action),
 coordinates, date and time, category, type, etc.
 
-The main aidea of this project is to parse each html file and extract the tabular information embedded inside three tables and
+The main idea of this project is to parse each html file and extract the tabular information embedded inside three tables and
 relevant information placed at the end of the html file.
 
 <span class="image-center">

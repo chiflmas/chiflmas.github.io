@@ -11,6 +11,7 @@ markdown: kramdown
 google_analytics: G-L3NT9B370C
 timezone: Europe/Berlin
 
+
 plugins:
   - jemoji
   - jekyll-feed
