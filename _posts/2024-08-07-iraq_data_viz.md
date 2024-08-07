@@ -191,8 +191,9 @@ with ProgressBar():
 
 client.shutdown()
 ```
+
 <span class="image-center">
-    ![Parallel animation](img\posts\irq_dask\parallel_animation.gif){:class="image-2"}
+    ![Parallel animation](img/posts/irq_dask/parallel_animation.gif){:class="image-2"}
 </span>
 
 ### Performance comparison
@@ -205,7 +206,7 @@ columns for the "War Diary: Iraq War Logs" dataset, which contains 44,464 entrie
 * Pandas apply time: 2039.44 seconds
 
 <span class="image-center">
-    ![Comparison chart](img\posts\irq_dask\dask_barchart.png){:class="image-2"}
+    ![Comparison chart](img/posts/irq_dask/dask_barchart.png){:class="image-2"}
 </span>
 
 ### About me
