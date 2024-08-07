@@ -14,7 +14,7 @@ tags:
 
 description: "Iraq War Logs [Dataset](https://www.kaggle.com/datasets/martinmateo/iraq-war-logs) data 
 manipulation with Pandas and Dask, calculating Sunset and Sunrise from MGRS coordinates."  
-more-info: "Repository link on [Github](https://github.com/chiflmas/irq_viz)"
+more-info: "Repository link on [Github](https://github.com/chiflmas/iraq_viz)"
 ---
 
 ### Introduction
@@ -123,7 +123,9 @@ def mgrs_to_latlon(x):
 We are computing sunset, sunrise, and daytime for specific locations and dates using Dask for parallel processing. The 
 function sun calculates the local times for sunset and sunrise, as well as a binary daylight indicator, by leveraging 
 ephemeris data to determine the sun's position. Each row in the DataFrame, which includes latitude, longitude, and datetime 
-columns, is processed row-wise in parallel using Dask. This approach efficiently handles large datasets, enabling rapid 
+columns, is processed row-wise in parallel using Dask.
+
+This approach efficiently handles large datasets, enabling rapid 
 computation of these solar events across many records simultaneously. The resulting times are adjusted to the local timezone, 
 ensuring accurate and relevant data for each location.
 
@@ -167,7 +169,9 @@ def sun(df):
 
 We are setting up a Dask client with 6 workers and splitting the dataset into 500 partitions for parallel processing. The 
 sun function is applied row-wise to each partition, and the results are specified to include 'Sunrise' and 'Sunset' as 
-datetime columns, and 'Daylight' as an integer column. The computation is executed with Dask's process-based scheduler, 
+datetime columns, and 'Daylight' as an integer column.
+
+The computation is executed with Dask's process-based scheduler, 
 ensuring efficient parallel execution. After processing, the Dask client is shut down.
 
 ```python
