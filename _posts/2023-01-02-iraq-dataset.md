@@ -207,4 +207,4 @@ Feel free to use the dataset and remember:
 
 ### About me
 
-My name is Martin, and I am a Helicopter Pilot and a Data Scientist.
+My name is Martin, and I am a Data Scientist.

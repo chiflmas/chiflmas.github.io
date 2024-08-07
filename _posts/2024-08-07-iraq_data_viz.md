@@ -215,4 +215,4 @@ columns for the "War Diary: Iraq War Logs" dataset, which contains 44,464 entrie
 
 ### About me
 
-My name is Martin, and I am a Helicopter Pilot and a Data Scientist.
+My name is Martin, and I am a Data Scientist.
