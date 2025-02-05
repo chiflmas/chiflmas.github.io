@@ -1,5 +1,5 @@
 Education:
-  - term: Jan 2020 - Dec 2024
+  - term: Jan 2020 - Jan 2025
     title: "Bachelor's Degree in Applied Data Science"
     company: Open University of Catalonia
     location: Spain
@@ -21,7 +21,7 @@ Education:
 
 
 Experience:
-  - term: Since April 2023
+  - term: Apr 2023 - Jul 2023
     title: Data Scientist Intern
     company: La Rioja Biomedical Research Center
     location: Spain
@@ -31,7 +31,7 @@ Experience:
     featured: true
 
   - term: Since 2015
-    title: Helicopter Pilot
+    title: NH-90 Helicopter Pilot
     company: Spanish army
     location: Spain
     details:
@@ -98,6 +98,8 @@ Certificates and Courses:
 languages:
   - name: Spanish
     level: Native speaker
+  - name: Spanish
+    level: Professional
   - name: English
     level: MCERL B2
     certificates:

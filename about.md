@@ -14,19 +14,19 @@ title: About me
   <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
     <div class="mb-2">
       <p>
-        I am a versatile Data Scientist who believes in continuous improvement processes. I create and manage Data Science pojects from problem statement to deployment.
+        I am a versatile Data Scientist dedicated to transforming data into actionable insights. I manage end-to-end data projects—from defining problems to deploying robust solutions—while always striving for continuous improvement.
       </p>
       <p>
-        I am passionate about Data Science and technology, and I try to bring value to data by mixing a broad variety of disciplines in the process of solving real-world problems. I strongly rely on mathematics and statistics methods to find patterns and solutions to deliver the best product in the shortest time.
+        Passionate about data science and its intersection with technology, I apply a multidisciplinary approach to tackle real-world challenges. By combining robust statistical methodologies with advanced machine learning techniques and deep data analytics, I extract meaningful insights and develop predictive models that not only uncover hidden patterns but also optimize outcomes efficiently.
       </p>
       <p>
-        I feel attracted to automatize repetitive daily tasks. I enjoy working with different programming languages and technologies such as Python, R, SQL, and Tableau.
+        I have a keen interest in automating repetitive tasks, and I enjoy working with a variety of programming languages and tools, including Python, R, SQL, and Tableau. My expertise spans the entire data pipeline: from data mining and cleaning to modeling, visualization, and production deployment. I also excel in web scraping, database querying, statistical analysis, time series forecasting, and task automation.
       </p>
       <p>
-        I take care of the entire process of data mining, data cleaning, modeling and production deployment. Web scrapping, data base querying, statistical analysis, time series analysis, machine learning modeling, data visualization and automating tasks are part of my skillset.
+        In my free time, I love exploring new topics and sharing my insights through <a href="https://github.com/chiflmas">coding</a> projects and writing on <a href="/blog">my blog</a>.
       </p>
       <p>
-        When I find time and an interesting topic, I <a href="https://github.com/chiflmas">code</a> and write in <a href="/blog">my blog</a>.
+        Let's collaborate to drive meaningful insights and impactful solutions. Get in touch today to discuss how I can contribute to your next data-driven project.
       </p>
       <h6 class="mt-4"><a href="/cv">~ See my CV ~</a></h6>
     </div>
