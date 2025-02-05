@@ -14,7 +14,7 @@ title: About me
   <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
     <div class="mb-2">
       <p>
-        I am a versatile Data Scientist dedicated to transforming data into actionable insights. I manage end-to-end data projects—from defining problems to deploying robust solutions—while always striving for continuous improvement.
+        I am a versatile Data Scientist dedicated to transforming data into actionable insights. I manage end-to-end data projects from defining problems to deploying robust solutions, while always striving for continuous improvement.
       </p>
       <p>
         Passionate about data science and its intersection with technology, I apply a multidisciplinary approach to tackle real-world challenges. By combining robust statistical methodologies with advanced machine learning techniques and deep data analytics, I extract meaningful insights and develop predictive models that not only uncover hidden patterns but also optimize outcomes efficiently.
